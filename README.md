@@ -1,2 +1,0 @@
-# HTML-PROJECTS
-HTML project 1
